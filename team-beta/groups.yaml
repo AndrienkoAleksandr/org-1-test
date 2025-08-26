@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: team-b
-  description: Team B
+  name: team-beta
+  description: Team Beta
 spec:
   type: team
   children: []

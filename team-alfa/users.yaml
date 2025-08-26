@@ -7,7 +7,7 @@ spec:
     displayName: Ivan Franko
     email: ivan.franko@example.com
     picture: https://avatars.dicebear.com/api/avataaars/ivan.franko@example.com.svg?background=%23fff
-  memberOf: [team-a]
+  memberOf: [team-alfa]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -18,7 +18,7 @@ spec:
     displayName: Taras Shevchenko
     email: taras.shevchenko@example.com
     picture: https://avatars.dicebear.com/api/avataaars/taras.shevchenko@example.com.svg?background=%23fff
-  memberOf: [team-a]
+  memberOf: [team-alfa]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -29,7 +29,7 @@ spec:
     displayName: Lesya Ukrainka
     email: lesya.ukrainka@example.com
     picture: https://avatars.dicebear.com/api/avataaars/lesya.ukrainka@example.com.svg?background=%23fff
-  memberOf: [team-a]
+  memberOf: [team-alfa]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -40,7 +40,7 @@ spec:
     displayName: Hryhorii Skovoroda
     email: hryhorii.skovoroda@example.com
     picture: https://avatars.dicebear.com/api/avataaars/hryhorii.skovoroda@example.com.svg?background=%23fff
-  memberOf: [team-a]
+  memberOf: [team-alfa]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -51,4 +51,4 @@ spec:
     displayName: Lina Kostenko
     email: lina.kostenko@example.com
     picture: https://avatars.dicebear.com/api/avataaars/lina.kostenko@example.com.svg?background=%23fff
-  memberOf: [team-a]
+  memberOf: [team-alfa]

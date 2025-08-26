@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: team-a-all
-  description: A collection of all Backstage entities for team-a
+  name: team-beta-all
+  description: A collection of all Backstage entities for team-b
 spec:
   targets:
     - ./users.yaml

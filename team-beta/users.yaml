@@ -7,7 +7,7 @@ spec:
     displayName: Mykhailo Kotsiubynskyi
     email: mykhailo.kotsiubynskyi@example.com
     picture: https://avatars.dicebear.com/api/avataaars/mykhailo.kotsiubynskyi@example.com.svg?background=%23fff
-  memberOf: [team-b]
+  memberOf: [team-beta]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -18,7 +18,7 @@ spec:
     displayName: Olha Kobylianska
     email: olha.kobylianska@example.com
     picture: https://avatars.dicebear.com/api/avataaars/olha.kobylianska@example.com.svg?background=%23fff
-  memberOf: [team-b]
+  memberOf: [team-beta]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -29,4 +29,4 @@ spec:
     displayName: Vasyl Stefanyk
     email: vasyl.stefanyk@example.com
     picture: https://avatars.dicebear.com/api/avataaars/vasyl.stefanyk@example.com.svg?background=%23fff
-  memberOf: [team-b]
+  memberOf: [team-beta]
